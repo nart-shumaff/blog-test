@@ -78,6 +78,9 @@ aside{
   grid-area: aside;
   background-color: rgb(224, 152, 64);
 }
+.aside-box{
+  background-color: black;
+}
 .box{
   border: 1px blue solid;
 }
