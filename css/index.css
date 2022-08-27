@@ -21,6 +21,23 @@ header{
   grid-area: head;
   background-color: blue;
 }
+nav{
+  display: grid;
+  grid-template:  
+  "logo" 
+  "nav-items"
+  "sup"
+;
+}
+.logo{
+  grid-area: logo;
+}
+.nav-items{
+  grid-area:nav-items;
+}
+.sup{
+  grid-area:sup;
+}
 .card{
   display: flex;
   flex-direction: column;
