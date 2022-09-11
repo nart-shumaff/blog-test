@@ -96,7 +96,7 @@ aside{
   background-color: rgb(224, 152, 64);
 }
 .aside-box{
-  background-color: black;
+  background-color: inherit;
 }
 .box{
   border: 1px blue solid;
